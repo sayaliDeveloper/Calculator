@@ -14,7 +14,7 @@ public class BasicCalculator {
         Scanner sc = new Scanner(System.in);
         BasicCalculator b = new BasicCalculator();
 
-        System.out.println("Enter the numbers");
+        System.out.println("Enter the numbers one after another");
 
         // take the inputs
         num1 = sc.nextDouble();
